@@ -1,0 +1,24 @@
+
+# Archivos temporales de Windows
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.bak
+*~
+
+# Temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos locales
+.venv/
+venv/
+
+# Configuración privada
+.env
+.env.*
+
+# Configuración local del editor
+.vscode/
