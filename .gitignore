@@ -22,3 +22,7 @@ venv/
 
 # Configuración local del editor
 .vscode/
+
+# Portal generado en Cloudflare
+dist/
+node_modules/
